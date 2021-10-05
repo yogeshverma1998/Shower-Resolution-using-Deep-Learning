@@ -1,3 +1,6 @@
+'''Author: Yogesh Verma'''
+'''Shower Resolution using Deep Learning'''
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas
