@@ -1,3 +1,6 @@
+'''Author: Yogesh Verma'''
+'''Shower Resolution using Deep Learning'''
+
 import keras
 from keras.models import Sequential
 from keras.layers import Dropout, Dense, Flatten, Conv3D, MaxPooling3D,BatchNormalization
